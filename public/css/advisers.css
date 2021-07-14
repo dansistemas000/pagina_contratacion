@@ -1,0 +1,60 @@
+.promotion-img{
+	width: 100%;
+	border: 2px solid #E8D820;
+}
+
+.promotion-img:hover{
+	border: 3px solid #e44705;
+	cursor: pointer;
+}
+
+.img-select{
+	border: 3px solid #e44705;
+}
+
+.nav-status{
+	border: 1px solid #BDBDBD;
+	padding: 3px 5px 3px 5px;
+    float: left;
+}
+
+/*.dreams{
+	border: 1px solid #BDBDBD;
+	padding: 2px 2px 2px 2px;
+    width: 100%;
+}*/
+
+/*.dreams > img{
+	border-right: 1px solid #BDBDBD;
+	margin-right: 5px;
+	padding-right: 5px;
+	height: 40px;
+} */
+/* desktop big */
+@media(min-width: 1000px) and (max-width: 1200px){
+
+}
+
+/*desktop small */
+@media(min-width: 730px) and (max-width:1000px) {
+
+}
+/* tablet landscape */
+@media(min-width: 600px) and (max-width: 730px){
+
+}
+
+/* mobile landscape and tablet */
+@media(min-width: 450px) and (max-width: 600px){
+
+}
+
+/* Mobile */
+@media(min-width: 320px) and (max-width: 450px){
+
+}
+
+/* Mobile small */
+@media(max-width: 320px){
+
+}
